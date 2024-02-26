@@ -7,5 +7,3 @@ print(a+b)
 # R
 print(a-b)
 
-# M
-
