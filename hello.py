@@ -1,1 +1,3 @@
-print(2+2)
+print("hola mundo!!")
+
+print(5*6)
